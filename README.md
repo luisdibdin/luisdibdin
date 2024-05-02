@@ -1,6 +1,6 @@
-### Hi there 👋
+<h2 align="center">Hi there 👋</h1>
 
-I'm a platform engineer at the UK Health Security Agency.
+<p align="center">I'm a platform engineer at the UK Health Security Agency.</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
