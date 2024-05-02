@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋</h1>
+<h3 align="center">Hi there 👋</h1>
 
 <p align="center">I'm a platform engineer at the UK Health Security Agency.</p>
 
