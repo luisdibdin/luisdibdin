@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a platform engineer at the UK Health Security Agency.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,dart,flutter,js,gatsby,py,mysql,git,graphql" />
+  </a>
+</p>
+
 <!--
 **luisdibdin/luisdibdin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
