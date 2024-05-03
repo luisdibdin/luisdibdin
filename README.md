@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,dart,flutter,js,gatsby,py,mysql,git,graphql" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,dart,flutter,js,gatsby,py,mysql,git,graphql&perline=12" />
   </a>
 </p>
 
